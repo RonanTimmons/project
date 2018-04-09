@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f4cbb66-f8a0-469f-bea8-45d3759518bf" name="Default" comment="Commit" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myshop/shop/models.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/admin.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/product/list.html" />
+        <option value="$PROJECT_DIR$/myshop/cart/views.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/forms.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/static/css/base.css" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/product/base.html" />
+        <option value="$PROJECT_DIR$/myshop/cart/context_processors.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/models.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/admin.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/forms.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/orders/order/create.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/orders/order/created.html" />
+        <option value="$PROJECT_DIR$/myshop/myshop/celery.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/templates/cart/detail.html" />
+        <option value="$PROJECT_DIR$/myshop/shop/views.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/cart.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/tasks.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/process.html" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/done.html" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/canceled.html" />
+        <option value="$PROJECT_DIR$/myshop/payment/views.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/views.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/apps.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/__init__.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/settings.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/signals.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/__init__.py" />
+        <option value="$PROJECT_DIR$/shop/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shopProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopProject2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\shopProject\myshop\shop\templates\shop" />
+      <recent name="C:\shopProject\myshop\shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\shopProject\myshop\shop" />
+      <recent name="C:\shopProject\myshop\shop\templates\shop" />
+      <recent name="C:\shopProject\myshop\cart\templates" />
+      <recent name="C:\shopProject\myshop\shop\templates\shop\static\img" />
+      <recent name="C:\shopProject\myshop\shop\templates\shop\product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f4cbb66-f8a0-469f-bea8-45d3759518bf" name="Default" comment="" />
+      <created>1521044804017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521044804017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2110977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16801076" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32438478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myshop/shop/templates/shop/base.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/static/css/base.css" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/static/img/dog jumper.jpg" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/static/img/WhiskasAdultChicken.jpg" />
+    <entry file="file://$PROJECT_DIR$/myshop/media/products/2018/03/14/dog_jumper.jpg" />
+    <entry file="file://$PROJECT_DIR$/myshop/media/products/2018/03/14/GainEasyGoCubes.jpg" />
+    <entry file="file://$PROJECT_DIR$/myshop/media/products/2018/03/14/WhiskasAdultChicken.jpg" />
+    <entry file="file://$PROJECT_DIR$/myshop/cart/context_processors.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/templates/shop/base.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/orders/order/create.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/orders/order/created.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/forms.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/cart/views.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/admin.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/cart/templates/cart/detail.html" />
+    <entry file="file://$PROJECT_DIR$/../New/Ex_Files_Django_3_Online_Shop/Exercise Files/Chapter 1/myshop/cart/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/celery.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/cart/cart.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/tests.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/cart/forms.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/tasks.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/canceled.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/urls.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/views.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/apps.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/signals.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/urls.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/done.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/models.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/process.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/models.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/views.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/urls.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/views.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/settings.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/models.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/apps.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/orders/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/shop/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="23" lean-forward="false" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
